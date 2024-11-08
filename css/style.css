@@ -1,0 +1,12 @@
+.block {
+    width: 300px;
+    background-color: tomato;
+}
+
+img {
+    width: 100%;
+}
+.parent {
+    display:flex;
+    justify-content: space-evenly;
+}
